@@ -1,0 +1,4 @@
+﻿  UDP_Test_Client.cpp
+F:\Software_File0524\software_File\C_project\UDP_Test_Client\UDP_Test_Client\UDP_Test_Client.cpp(21,1): warning C4996:  'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\WINSOCK2.H(1831): message :  参见“inet_addr”的声明
+  UDP_Test_Client.vcxproj -> F:\Software_File0524\software_File\C_project\UDP_Test_Client\Debug\UDP_Test_Client.exe
